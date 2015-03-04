@@ -78,6 +78,8 @@ GEM
     debug_inspector (0.0.2)
     debugger-linecache (1.2.0)
     diff-lcs (1.2.5)
+    erb2haml (0.1.5)
+      html2haml
     erubis (2.7.0)
     execjs (2.3.0)
     ffi (1.9.6)
@@ -207,6 +209,7 @@ DEPENDENCIES
   byebug
   coffee-rails
   compass-rails
+  erb2haml
   font-awesome-rails
   haml-rails
   jquery-rails
